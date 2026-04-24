@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Aspiring developer focused on AI, system design, and modern technologies.<br><br>🧠 Passionate about understanding how complex systems work and turning ideas into practical, real-world solutions.  <br>💡 I enjoy exploring how software can improve everyday experiences through thoughtful and efficient design.<br><br>📚 Continuously learning, experimenting, and refining my skills to build impactful technology.<br><br>🎯 Driven by curiosity, long-term growth, and the mindset of always building and improving.
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshanv2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanraj.v2006@gmail.com) 
